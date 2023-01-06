@@ -1,8 +1,15 @@
 {
-    "editor.codeActionsOnSave" :{
-        "source.fixAll.eslint": true
-    },
-    "editor.formatOnSave": true,
-    "eslint.alwaysShowStatus": true,
-    "files.autoSave": "onFocusChange"
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "files.autoSave": "onFocusChange",
+  "prettier.semi": true,
+  "prettier.bracketSpacing": true,
+  "prettier.trailingComma": "all",
+  "prettier.singleQuote": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.tabWidth": 2,
+  "editor.guides.bracketPairs": true
 }
